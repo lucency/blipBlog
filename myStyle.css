@@ -1,0 +1,11 @@
+
+.jumbotron {
+    margin-bottom: 0px;
+    min-height: 600px;
+    background-image: url(http://wallpaperus.org/wallpapers/04/151/outer-space-6000x3000-wallpaper-1666019.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
